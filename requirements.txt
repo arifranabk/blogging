@@ -1,0 +1,14 @@
+pandas
+requests
+beautifulsoup4
+lxml
+sqlalchemy
+python-dotenv
+mysql-connector-python
+psycopg2-binary
+pytest
+colorama
+tldextract
+pytrends
+google-generativeai
+openai
